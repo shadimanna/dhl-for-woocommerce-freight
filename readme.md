@@ -14,7 +14,6 @@
 
 The official DHL for WooCommerce Freight (Sweden) plugin allows you to automate your label creation.
 
-
 == Description ==
 
 DHL’s official extension for WooCommerce on Wordpress. Manage your national and international shipments easily.  The “DHL for WooCommerce” – plugin is compatible with the following DHL service offerings depending on your origin country:
