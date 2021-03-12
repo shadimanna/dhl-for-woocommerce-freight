@@ -1,16 +1,16 @@
 === DHL for WooCommerce Freight (Sweden) ===
 
-Contributors: DHL, shadim, utzfu
-Donate link: 
-Tags: DHL, original DHL, DHL, Freight, DHL Sweden, WooCommerce, Woocom, Woo Commerce, Shipping, shiping, label creation, label printing
-Requires at least: 4.1
-Requires PHP: 5.6
-Tested up to: 5.6
-Stable tag: 1.0.0
-WC requires at least: 3.0
-WC tested up to: 5.0
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+* Contributors: DHL, shadim, utzfu
+* Donate link: 
+* Tags: DHL, original DHL, DHL, Freight, DHL Sweden, WooCommerce, Woocom, Woo Commerce, Shipping, shiping, label creation, label printing
+* Requires at least: 4.1
+* Requires PHP: 5.6
+* Tested up to: 5.6
+* Stable tag: 1.0.0
+* WC requires at least: 3.0
+* WC tested up to: 5.0
+* License: GPLv2 or later
+* License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 The official DHL for WooCommerce Freight (Sweden) plugin allows you to automate your label creation.
 
